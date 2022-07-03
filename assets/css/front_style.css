@@ -1,0 +1,24 @@
+.wpss_social_share_buttons {
+    margin: 14px 0px;
+    clear: both;
+    visibility: hidden;
+}
+.wpss_social_share_buttons a{
+	box-shadow: none!important;
+	text-decoration: none!important;
+	padding:0!important;
+    margin-bottom: 3px!important;
+    margin-top: 3px!important;
+    white-space: normal;
+}
+.wpss_social_share_buttons.not_before_tab a:nth-child(odd){
+	border-right: 5px solid white;
+}
+
+.wpss_social_share_buttons.before_tab a{
+	border-right: 5px solid white;
+}
+.icons_only{
+	width: auto!important;
+	border-right: 5px solid white;
+}
