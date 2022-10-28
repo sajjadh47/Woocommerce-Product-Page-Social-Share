@@ -1,7 +1,7 @@
 {
     "facebook": "<li data-id=\"facebook\"><span class=\"a2a_s_facebook\" style=\"background-color:#3B5998\"></span>Facebook</li>",
+    "facebook_messenger": "<li data-id=\"facebook_messenger\"><span class=\"a2a_s_facebook_messenger\" style=\"background-color:#0084FF\"></span>Facebook Messenger</li>",
     "twitter": "<li data-id=\"twitter\"><span class=\"a2a_s_twitter\" style=\"background-color:#55ACEE\"></span>Twitter</li>",
-    "google_plus": "<li data-id=\"google_plus\"><span class=\"a2a_s_google_plus\" style=\"background-color:#DD4B39\"></span>Google+</li>",
     "pinterest": "<li data-id=\"pinterest\"><span class=\"a2a_s_pinterest\" style=\"background-color:#BD081C\"></span>Pinterest</li>",
     "email": "<li data-id=\"email\"><span class=\"a2a_s_email\" style=\"background-color:#0166FF\"></span>Email</li>",
     "linkedin": "<li data-id=\"linkedin\"><span class=\"a2a_s_linkedin\" style=\"background-color:#007BB5\"></span>LinkedIn</li>",
@@ -9,7 +9,6 @@
     "tumblr": "<li data-id=\"tumblr\"><span class=\"a2a_s_tumblr\" style=\"background-color:#35465C\"></span>Tumblr</li>",
     "wordpress": "<li data-id=\"wordpress\"><span class=\"a2a_s_wordpress\" style=\"background-color:#464646\"></span>WordPress</li>",
     "google_gmail": "<li data-id=\"google_gmail\"><span class=\"a2a_s_gmail\" style=\"background-color:#DD5347\"></span>Google Gmail</li>",
-    "whatsapp": "<li data-id=\"whatsapp\"><span class=\"a2a_s_whatsapp\" style=\"background-color:#12AF0A\"></span>WhatsApp</li>",
     "stumbleupon": "<li data-id=\"stumbleupon\"><span class=\"a2a_s_stumbleupon\" style=\"background-color:#EF4E23\"></span>StumbleUpon</li>",
     "amazon_wish_list": "<li data-id=\"amazon_wish_list\"><span class=\"a2a_s_amazon\" style=\"background-color:#F90\"></span>Amazon Wish List</li>",
     "aol_mail": "<li data-id=\"aol_mail\"><span class=\"a2a_s_aol\" style=\"background-color:#2A2A2A\"></span>AOL Mail</li>",
@@ -35,7 +34,6 @@
     "draugiem": "<li data-id=\"draugiem\"><span class=\"a2a_s_draugiem\" style=\"background-color:#F60\"></span>Draugiem</li>",
     "dzone": "<li data-id=\"dzone\"><span class=\"a2a_s_dzone\" style=\"background-color:#82C251\"></span>DZone</li>",
     "evernote": "<li data-id=\"evernote\"><span class=\"a2a_s_evernote\" style=\"background-color:#8BE056\"></span>Evernote</li>",
-    "facebook_messenger": "<li data-id=\"facebook_messenger\"><span class=\"a2a_s_facebook_messenger\" style=\"background-color:#0084FF\"></span>Facebook Messenger</li>",
     "fark": "<li data-id=\"fark\"><span class=\"a2a_s_fark\" style=\"background-color:#555\"></span>Fark</li>",
     "flipboard": "<li data-id=\"flipboard\"><span class=\"a2a_s_flipboard\" style=\"background-color:#C00\"></span>Flipboard</li>",
     "folkd": "<li data-id=\"folkd\"><span class=\"a2a_s_folkd\" style=\"background-color:#0F70B2\"></span>Folkd</li>",
@@ -98,5 +96,6 @@
     "yahoo_mail": "<li data-id=\"yahoo_mail\"><span class=\"a2a_s_yahoo\" style=\"background-color:#400090\"></span>Yahoo Mail</li>",
     "yahoo_messenger": "<li data-id=\"yahoo_messenger\"><span class=\"a2a_s_yim\" style=\"background-color:#400090\"></span>Yahoo Messenger</li>",
     "yoolink": "<li data-id=\"yoolink\"><span class=\"a2a_s_yoolink\" style=\"background-color:#A2C538\"></span>Yoolink</li>",
-    "yummly": "<li data-id=\"yummly\"><span class=\"a2a_s_yummly\" style=\"background-color:#E16120\"></span>Yummly</li>"
+    "yummly": "<li data-id=\"yummly\"><span class=\"a2a_s_yummly\" style=\"background-color:#E16120\"></span>Yummly</li>",
+    "whatsapp": "<li data-id=\"whatsapp\"><span class=\"a2a_s_whatsapp\" style=\"background-color:#12AF0A\"></span>WhatsApp</li>"
 }

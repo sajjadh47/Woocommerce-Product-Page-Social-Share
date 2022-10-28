@@ -1,0 +1,27 @@
+.ssfwc_social_share_buttons {
+	margin: 14px 0px;
+	clear: both;
+	visibility: hidden;
+}
+
+.ssfwc_social_share_buttons a {
+	box-shadow: none !important;
+	text-decoration: none !important;
+	padding: 0 !important;
+	margin-bottom: 3px !important;
+	margin-top: 3px !important;
+	white-space: normal;
+}
+
+.ssfwc_social_share_buttons.before_tab a {
+	border-right: 5px solid white;
+}
+
+.icons_only {
+	width: auto !important;
+	border-right: 5px solid white;
+}
+
+.ssfwc_social_share_buttons.row {
+	margin: 0px;
+}

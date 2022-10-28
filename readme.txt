@@ -1,18 +1,18 @@
-=== Woocommerce Product Page Social Share ===
+=== Social Sharer for WooComerce ===
 Contributors: sajjad67
 Tags: Woocommerce, social,social-share,social-buttons,buttons,button,responsive-buttons
-Requires at least: 4.0
-Tested up to: 5.5
-Stable tag: 2.0.2
+Requires at least: 5.6
+Tested up to: 6.0
+Stable tag: 1.0.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add attractive & responsive social sharing icons for Facebook, Twitter, Pinterest to your product pages.
+Add attractive & responsive social sharing icons with link to your woocommerce product pages.
 
 == Description ==
-This plugin adds social buttons (facebook, twitter, pinterest, google-plus, linkedin, reddit, messenger etc and more) to your product page where user can share your product page to their respective social media site.
+This plugin adds social buttons (twitter, pinterest, google-plus, linkedin, reddit etc and more) to your product page where user can share your product page to their respective social media site.
 
-Note : Remember Social Button like Instagram doesn't support sharing.. only Follow button so those who doesn't support sharing not included...
+Note : Remember Some Social Button doesn't support sharing.. only Follow button so those who doesn't support sharing not included...
 
 = Features: =
 - Add Social Share buttons to woocommerce product page.
@@ -25,9 +25,9 @@ Note : Remember Social Button like Instagram doesn't support sharing.. only Foll
 - Display Social Icons anywhere using shortcodes
 
 = Shortcode Usage: =
-Use shortcode `[wppss_social_sharing_buttons]` to display social icons on your site anywhere.
+Use shortcode `[ssfwc_social_sharing_buttons]` to display social icons on your site anywhere.
 
-**Interested in contributing to Woocommerce Product Page Social Share?**
+**Interested in contributing to Social Sharer for WooComerce?**
 Contact me at sagorh672(at)gmail.com
 
 == Installation ==
@@ -35,8 +35,8 @@ To add a WordPress Plugin using the built-in plugin installer:
 
 Go to Plugins > Add New.
 
-1. Type in the name "Woocommerce Product Page Social Share" in Search Plugins box
-2. Find the "Woocommerce Product Page Social Share" Plugin to install.
+1. Type in the name "Social Sharer for WooComerce" in Search Plugins box
+2. Find the "Social Sharer for WooComerce" Plugin to install.
 3. Click Install Now to begin the plugin installation.
 4. The resulting installation screen will list the installation as successful or note any problems during the install.
 If successful, click Activate Plugin to activate it, or Return to Plugin Installer for further actions.
@@ -50,7 +50,7 @@ If successful, click Activate Plugin to activate it, or Return to Plugin Install
 
 == Frequently Asked Questions ==
 = How to use this plugin? =
-Just after installing Woocommerce Product Page Social Share plugin, Go to Social Sharing Menu Page at bottom to adjuct your need.
+Just after installing Social Sharer for WooComerce plugin, Go to Social Sharing Menu Page at bottom to adjuct your need.
 
 Update inputs according to your requirement and you are good to go.
 
@@ -64,23 +64,6 @@ Update inputs according to your requirement and you are good to go.
 7. Social Sharing Buttons displayed in product page front (Icons only after product image).
 
 == Changelog ==
-= 2.0.2 =
-- Added shortcode to display icons anywhere on the site.
-= 2.0.1 =
-- Fixed fatal error after update
-= 2.0.0 =
-- Added support for latest version wp 5.5
-- Added new position 'After Product Image'
-- Changed the whole code style to OOP
-= 1.0.3 =
-- Fixed php error when settings [Show / Hide Sharing Buttons] checkbox was not checked.
-- Added more related comments for more code readability
-= 1.0.2 =
-- Updated with some minor fixes (fixed bootstrap incompatibility).
-= 1.0.1 =
-- Updated with some minor fixes.
-- Removed Google+ as it's service is no longer available
-- Added support for latest version wp 5.3
 = 1.0.0 =
 - Initial release.
 

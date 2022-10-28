@@ -1,7 +1,7 @@
 {
     "facebook": "background-color:#3B5998",
+    "facebook_messenger": "background-color:#0084FF",
     "twitter": "background-color:#55ACEE",
-    "google_plus": "background-color:#DD4B39",
     "pinterest": "background-color:#BD081C",
     "email": "background-color:#0166FF",
     "linkedin": "background-color:#007BB5",
@@ -9,7 +9,6 @@
     "tumblr": "background-color:#35465C",
     "wordpress": "background-color:#464646",
     "google_gmail": "background-color:#DD5347",
-    "whatsapp": "background-color:#12AF0A",
     "stumbleupon": "background-color:#EF4E23",
     "amazon_wish_list": "background-color:#F90",
     "aol_mail": "background-color:#2A2A2A",
@@ -35,7 +34,6 @@
     "draugiem": "background-color:#F60",
     "dzone": "background-color:#82C251",
     "evernote": "background-color:#8BE056",
-    "facebook_messenger": "background-color:#0084FF",
     "fark": "background-color:#555",
     "flipboard": "background-color:#C00",
     "folkd": "background-color:#0F70B2",
@@ -98,5 +96,6 @@
     "yahoo_mail": "background-color:#400090",
     "yahoo_messenger": "background-color:#400090",
     "yoolink": "background-color:#A2C538",
-    "yummly": "background-color:#E16120"
+    "yummly": "background-color:#E16120",
+    "whatsapp": "background-color:#12AF0A"
 }
